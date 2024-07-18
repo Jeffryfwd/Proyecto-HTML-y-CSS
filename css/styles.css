@@ -125,7 +125,8 @@ body{
     height: 600px;
     width: 400px;
     background-color: #007EA8;
-    border-radius: 15px;    
+    border-radius: 15px;
+    margin-left: 200px;    
 }
 
 .columna2{
@@ -135,6 +136,7 @@ body{
     width: 400px;
     background-color: #ebeef1;
     border-radius: 15px;
+    margin-right: 200px;
 }
 
 .titulo{
@@ -205,12 +207,64 @@ body{
     display: flex;
     
 }
-
 .casa_mujeres{
-    width: 100%;
-    height: 410px;
+    display: flex;
+    background-image: url(https://www.inamu.go.cr/image/journal/article?img_id=2623351&t=1647510016780);
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 350px;
+    border-radius: 20px;
+    
+}
+#logocasamuj{
+    display: flex;
+    margin-top: 5px;
+    height: 70px;
+    width: 200px;
+    margin-left: 100px;
+    
+}
+#mujerlik{
+    position: absolute;
+    margin-top: 140px;
+    height: 200px;
+    margin-right: 500px;
+    
+}
+.textoMujeres{
+    display: flex;
+    flex-direction: column;
+    height: 150px;
+    width: 50%; 
+    padding: 10px;
+    margin-left: 50px;
+    
+}
+.textocasamujeres{
+font-size: 20px;  
+color: #FFFF;
+font-family: "Inter", sans-serif; 
+}
+
+.contenedor7{
+    background-image: url(https://www.inamu.go.cr/image/journal/article?img_id=2623351&t=1647510016780);
+}
+
+.titulosdecontenedor7{
+    color: #FFFF;
+    margin-left: 100px;
+    text-align: center;
+}
+
+.contenedor7inte{
+    background-color: #FFFF;
+    margin-left: 200px;
+    margin-right: 200px;
     border-radius: 20px;
 }
-.contenedor7{
-background-image: url(/image/journal/article?img_id=2952793&t=1698789673874);
-}
+
+
+
+
+
+
