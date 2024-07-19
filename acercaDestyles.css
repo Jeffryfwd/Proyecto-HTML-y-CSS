@@ -58,6 +58,25 @@ height: 60px;
 a{
     text-decoration: none;
 }
+.asisomos{
+    font-size: 20px;
+    color: #666;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: -0.25px;
+}
+
+.asisomos2{
+    font-family: Inter !important;
+    font-style: normal;
+    font-weight: 800 !important;
+    font-size: 42px;
+    line-height: 52px;
+    letter-spacing: -0.5px;
+    color: #007ea8;
+}
 
 .opciones{
     
@@ -72,4 +91,38 @@ a{
 .opciones > li:hover{
  background-color: yellowgreen;  
 
+}
+.contenAsisomos1{
+     margin-left: 170px;
+     
+}
+.nuestrahistori{
+    color: #007EA8;
+}
+
+.Nuestrahistoriatexto{
+    margin-left: 170px;
+    color: #666;
+}
+.parrafonuestrahistoria{
+    margin-left: 170px;
+    margin-right: 170px;
+    color: #666;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    font-family: 14px;
+    text-align: justify;
+}
+.contenedor10{
+background-color: #f7f7f7;
+}
+.columna{
+    margin-top: 100px;
+}
+
+
+.contenedor3{
+    margin-top: 200px;
 }
